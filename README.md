@@ -14,6 +14,13 @@ This company's Sales Director is facing a lot of challenges in terms of tracking
 The problem is that his overall sales are declining but he doesn't have any concrete details and numbers on how this is happening even after contacting his regional managers. As a result, he wants a simple data visualization tool which he can access on daily basis to check the status of AtliQ's sales.
 Using this project, I have created a Sales Dashboard using Tableau to portray the Revenue and Profit Analysis with the help of dataset from AtliQ Hardware.
 
-## Data Cleaning using MySQL
+## Data Cleaning and ETL (Extract, Transform and Load):
 
-1. Completed the Data discovery and then used mySQL for data analysis.
+1. Importing the data to MySQL workbench
+2. Analysis of the data by looking into different tables
+3. Reflecting garbage values like negative values in Amount, transaction amount in USD etc.
+4. Connect the MySQL database with Tableau Desktop and loading data into it
+5. Create appropraite relationship with each table for easier interpretation
+
+### Measures Used:
+	1. oops
