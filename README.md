@@ -23,4 +23,4 @@ Using this project, I have created a Sales Dashboard using Tableau to portray th
 5. Create appropraite relationship with each table for easier interpretation
 
 ### Measures Used:
-	1. oops
+- Profit Margin% = SUM([profit_margin])/SUM([Normalized Amt])
