@@ -24,3 +24,4 @@ Using this project, I have created a Sales Dashboard using Tableau to portray th
 
 ### Measures Used:
 - Profit Margin% = SUM([profit_margin])/SUM([Normalized Amt])
+- DIVIDE([Total Profit Margin],[Revenue],0)
