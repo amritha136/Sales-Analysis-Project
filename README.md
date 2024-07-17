@@ -23,5 +23,5 @@ Using this project, I have created a Sales Dashboard using Tableau to portray th
 5. Create appropraite relationship with each table for easier interpretation
 
 ### Measures Used:
-- Profit Margin% = SUM([profit_margin])/SUM([Normalized Amt])
-- DIVIDE([Total Profit Margin],[Revenue],0)
+- Profit Margin% = `SUM([profit_margin])/SUM([Normalized Amt])`
+- USD to INR conversion = `IF [Currency]=="USD" THEN [Sales Amount]*83.5 ELSE [Sales Amount] END`
