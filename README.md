@@ -3,7 +3,9 @@
 In this Data Analysis project, I have performed sales insights on an Indian company, AtliQ Hardware company.
 AtliQ Hardware is a company which supplies computer hardware and peripherals to many of clients such as surge stores, nomad stores etc. in 10+ locations across India. It's Headquarters is situated in Delhi, India and they have many regional offices through out the country.
 
-![AtliQ Hardware company logo](https://ironstark007.github.io/Portfolio/images/portfolio/487090-company-logo.png) <p align="center"> </p>
+<p align="center">
+  <img src="[http://some_place.com/image.png](https://ironstark007.github.io/Portfolio/images/portfolio/487090-company-logo.png)" />
+</p>
 
 ## Problem Statement:
 
