@@ -1,7 +1,7 @@
 # Sales-Analysis-Project
 
-In this Data Analysis project, I have performed sales insights on an Indian company, AtliQ Hardware company.
-AtliQ Hardware is a company which supplies computer hardware and peripherals to many of clients such as surge stores, nomad stores etc. in 10+ locations across India. It's Headquarters is situated in Delhi, India and they have many regional offices through out the country.
+AtliQ Hardware is a company which supplies computer hardware and peripherals to many of clients such as surge stores, nomad stores etc. It's Headquarters is situated in Delhi, India and they have many regional offices through out the country.
+In this Data Analysis project, I have performed sales insights on an Indian company, **AtliQ Hardware** company, creating an interactive dashboard with dynamic charts to show the status of AtliQ’s **10+ offices** all over the country and **270+ products**.
 
 <div align="center">
 	<img src="https://ironstark007.github.io/Portfolio/images/portfolio/487090-company-logo.png">
@@ -29,4 +29,30 @@ Using this project, I have created a Sales Dashboard using Tableau to portray th
 - Profit Margin% = `SUM([profit_margin])/SUM([Normalized Amt])`
 
 ## Revenue Analysis Dashboard:
-![me](Desktop/Amritha-TNP.jpg)
+![Dashboard 1 - Revenue Analysis](https://github.com/user-attachments/assets/952956b5-bcdc-4c33-8660-f9e826987463)
+
+- Above shown is the Revenue Analysis of AtliQ Hardware from October 2017 to June 2020
+- The elements in the dashboard comprise of Total Sales Quantity, Total Revenue along with a line graph depicting reenue of every month, Top 6 customers and Top 12 products sold by AtliQ Hardware
+
+## Profit Analysis Dashboard:
+
+![Dashboard 2 - Profit Analysis](https://github.com/user-attachments/assets/2e05087a-4454-4af6-b32e-516f32606c7b)
+
+- Above shown is the Profit Analysis of AtliQ Hardware during the same time period
+- This dashboard comprises of Profit of each market, profit acquired from each customer, Profit trend and a pie-chart portraying the type of that the customers of AtliQ Hardware belong to
+
+## Tools, Softwares and Libraries used:
+1. MySQL
+2. Tableau
+3. DAX Language
+
+## Benefits of a Sales Dashboard:
+1. Track sales performance over time and identifying any areas of improvement
+2. Identify top-performing salespeople and products
+3. Analyze customer interaction with your products and services
+4. Forecast future sales and make informed business decisions
+
+## References:
+- [https://dev.mysql.com/doc/](url)
+- [https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm](url)
+- [Sales insights of data analysis-AtliQ Hardware](url)
