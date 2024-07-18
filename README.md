@@ -29,4 +29,4 @@ Using this project, I have created a Sales Dashboard using Tableau to portray th
 - Profit Margin% = `SUM([profit_margin])/SUM([Normalized Amt])`
 
 ## Revenue Analysis Dashboard:
-![me](Desktop/Amritha TNP Photo.jpg)
+![me](Desktop/Amritha-TNP.jpg)
