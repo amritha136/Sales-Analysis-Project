@@ -21,5 +21,5 @@ SELECT SUM(sales.transactions.sales_amount) FROM sales.transactions
 JOIN sales.date ON sales.date.date=sales.transactions.order_date
 WHERE sales.date.year=2019 AND sales.date.month_name='February' ;
 
--- Calculating the revenue acquired in February 2019
+-- Acquiring records which have USD currency
 SELECT * FROM sales.transactions WHERE currency="USD"
