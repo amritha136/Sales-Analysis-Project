@@ -18,10 +18,15 @@ Using this project, I have created a Sales Dashboard using Tableau to portray th
 
 1. Importing the data to MySQL workbench
 2. Analysis of the data by looking into different tables
-3. Reflecting garbage values like negative values in Amount, transaction amount in USD etc.
+3. Reflecting garbage values like negative values in Amount and creating a column called 'Normalized Amount' after conversion of transaction amount from USD to INR
 4. Connect the MySQL database with Tableau Desktop and loading data into it
 5. Create appropraite relationship with each table for easier interpretation
 
 ### Measures Used:
-- Profit Margin% = `SUM([profit_margin])/SUM([Normalized Amt])`
 - USD to INR conversion = `IF [Currency]=="USD" THEN [Sales Amount]*83.5 ELSE [Sales Amount] END`
+- Total Revenue = `SUM(Normalized Amt)`
+- Total Sales = `SUM(Sales Qty)`
+- Profit Margin% = `SUM([profit_margin])/SUM([Normalized Amt])`
+
+## Revenue Analysis Dashboard:
+![me](Desktop/Amritha TNP Photo.jpg)
