@@ -53,6 +53,6 @@ Using this project, I have created a Sales Dashboard using Tableau to portray th
 4. Forecast future sales and make informed business decisions
 
 ## References:
-- [https://dev.mysql.com/doc/](url)
-- [https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm](url)
-- [Sales insights of data analysis-AtliQ Hardware](url)
+- [https://dev.mysql.com/doc/](https://dev.mysql.com/doc/)
+- [https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm)
+- [Sales insights of data analysis-AtliQ Hardware](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/tree/main)
